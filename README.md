@@ -16,3 +16,9 @@ The objective of this analysis is to evaluate the staffing data to identify tren
 
 5. Show the distribution of RN staffing hours  across all facilities
 
+## Recommendations
+- The sales team should prioritize outreach efforts to facilities in Texas and California, as these states show higher staffing hours. Consider developing targeted marketing campaigns highlighting Clipboard Health's staffing solutions to meet their ongoing needs.
+- The sales team should highlight the benefits of retaining employees, as they provide a more stable and consistent staffing solution. They should consider implementing programs that enhance job satisfaction and reduce turnover among employees.
+- Since CNAs are receiving higher staffing hours,this level of staffing should be maintained.
+- The sales team should consider focusing on recruiting or upselling LPN staffing solutions in areas where they have lower hours compared to CNAs,as  LPNs improve patient care and manage more complex needs.
+- With RNs showing the lowest hours among the three roles, this indicates potential staffing shortages. The sales team should target areas where RN hours are low and highlight the need for increased RN staffing to ensure compliance with staffing regulations and improve patient outcomes.
